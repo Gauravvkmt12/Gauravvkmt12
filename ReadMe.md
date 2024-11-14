@@ -12,7 +12,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauravvkmt12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Gauravvkmt12&icon=2&color=3)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=gauravvkmt12&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
